@@ -1,0 +1,64 @@
+
+[
+    {
+        "name":"Dipesh",
+        "Expertise":"Cardiologist",
+        "City":"Bangalore"
+    },
+    {
+        "name":"Puja",
+        "Expertise":"Gynecologist",
+        "City":"Mumbai"
+    },
+    {
+        "name":"Anil",
+        "Expertise":"Pediatrician",
+        "City":"Kolkata"
+    },
+    {
+        "name":"Anthony",
+        "Expertise":"Dermatologist",
+        "City":"Delhi"
+    },
+    {
+        "name":"Marsel",
+        "Expertise":"Oncologist",
+        "City":"Bangalore"
+    },
+    {
+        "name":"John ",
+        "Expertise":"Endocrinologist",
+        "City":"Pune"
+    },
+    {
+        "name":"Ravi",
+        "Expertise":"Neurologist",
+        "City":"Bangalore"
+    },
+    {
+        "name":"Ankur",
+        "Expertise":"Psychiatrist",
+        "City":"Delhi"
+    },
+    {
+        "name":"Muskan",
+        "Expertise":"Allergist",
+        "City":"Kolkata"
+    },
+    {
+        "name":"Akanksha",
+        "Expertise":"Dentist",
+        "City":"Mumbai"
+    },
+    {
+        "name":"Deepa",
+        "Expertise":"Pathologists",
+        "City":"Delhi"
+    },
+    {
+        "name":"Ankur",
+        "Expertise":"Family physician",
+        "City":"Delhi"
+    }
+
+]
